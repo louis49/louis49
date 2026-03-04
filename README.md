@@ -47,7 +47,7 @@ Currently at [SpringCard](https://www.springcard.com), working on digital identi
 
 **Security** - OpenSSL, PKCS#7, ECDH, PACE/BAC, NFC protocols, BLE reverse engineering
 
-**Frontend** - Vue.js, React Native
+**Frontend** - Vue.js
 
 ---
 
