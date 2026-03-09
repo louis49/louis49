@@ -1,18 +1,18 @@
 # Hi, I'm Benoit Desnos
 
-AI/LLM Architect with 20 years of engineering. I build production systems from scratch - AI pipelines, identity protocols, developer tools. Alone if needed, then with a team.
+AI/LLM Architect with 20 years of engineering. I build production systems from scratch -AI pipelines, identity protocols, developer tools. Alone if needed, then with a team.
 
 ---
 
 ### AI / LLM Systems
 
-- **YokeBrain** *(private)* - AI-powered business model generator. 6-phase pipeline orchestrating ~450 LLM calls via bisociation theory (Koestler). Embeddings, multi-criteria reranking, ontology-driven generation, cognitive bias integration (175+ biases across 7 roles). NestJS, Vue 3, PostgreSQL, Kubernetes.
+- **[YokeBrain](https://www.yokebrain.com)** *(private)* - AI-powered business model generator. 6-phase pipeline orchestrating ~450 LLM calls via bisociation theory (Koestler). Embeddings, multi-criteria reranking, ontology-driven generation, cognitive bias integration (175+ biases across 7 roles). NestJS, Vue 3, PostgreSQL, Kubernetes.
 - **[melchizedek](https://github.com/louis49/melchizedek)** ![npm](https://img.shields.io/npm/dt/melchizedek?label=npm) - MCP Server for Claude Code. Hybrid search engine combining BM25, vector similarity, and reranking over conversation history. 100% local, zero API keys. Published on npm.
 - **arXiv Scanner** *(private)* - Pipeline ingesting ~5K arXiv papers, LLM-powered triage (Haiku for fast filtering, Sonnet for commercial scoring across 6 dimensions), identifies papers transformable into products. TypeScript, SQLite, Claude API.
 - **Kalamos** *(private)* - Local-first LinkedIn editorial manager. MCP Server with 10 tools for Claude Code: hybrid search (BM25 + vectors + RRF + reranker), full lifecycle (draft → schedule → publish → analytics), OAuth2 publishing, anti-detection corpus scraping via Patchright. TypeScript, SQLite, sqlite-vec, ~9K LOC.
 - **LLM Agent Pipeline** *(private)* - LinkedIn post generator using 9 parallel LLM agents. Each agent evaluates tension/angle pairs on content drafts via structured output (Zod schemas), automated congruence scoring, voice profile extraction. TypeScript, Claude API.
 - **CE Differentiator** *(private)* - CNN image classifier distinguishing authentic EU CE marking from counterfeit Chinese export marking. 151K synthetic training images (Albumentations, Perlin noise). TensorFlow/Keras, OpenCV.
-- **Lego Emergent Communication v2** *(private)* - Research: do neural agents develop modular or monolithic communication protocols under incremental complexity 3D CNN encoder/decoder, Gumbel-Softmax discrete channel, 4x4x4 grids with 2-10 colors. Sequential learning produces stable modular protocols (F1>=95%); from-scratch collapses at N>=6. PyTorch, TensorBoard. Targeting publication Q2 2026.
+- **Lego Emergent Communication v2** *(private)* - Research: do neural agents develop modular or monolithic communication protocols under incremental complexity? 3D CNN encoder/decoder, Gumbel-Softmax discrete channel, 4x4x4 grids with 2-10 colors. Sequential learning produces stable modular protocols (F1>=95%); from-scratch collapses at N>=6. PyTorch, TensorBoard. Targeting publication Q2 2026.
 - **[ml-sonets](https://github.com/louis49/ml-sonets)** - Self-generative sonnets using autoencoder (TensorFlow/Keras). Trained on 4,820 classical French poems.
 
 ### Reverse Engineering & IoT
